@@ -1,4 +1,0 @@
-Title: Process Control (Notre Dame CBE 30338)
-Official source: https://jckantor.github.io/CBE30338/
-Original file name: NotreDame_CBE30338_ChemicalProcessControl_HTML_en.zip
-Note: Site snapshot not included yet.
