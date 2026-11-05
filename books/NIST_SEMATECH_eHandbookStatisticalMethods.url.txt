@@ -1,0 +1,4 @@
+Title: NIST/SEMATECH e-Handbook of Statistical Methods
+Official source: https://www.itl.nist.gov/div898/handbook/
+Original file name: NIST_SEMATECH_eHandbookStatisticalMethods
+Note: Old copy had 8 PDF files. The chapter PDFs are no longer served at their expected addresses, so only the link is kept.

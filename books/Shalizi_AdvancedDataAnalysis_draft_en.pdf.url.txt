@@ -1,0 +1,4 @@
+Title: Advanced Data Analysis from an Elementary Point of View
+Official source: https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
+Original file name: Shalizi_AdvancedDataAnalysis_draft_en.pdf
+Note: This file is not published here because no redistribution licence was found. Download it from the official source.

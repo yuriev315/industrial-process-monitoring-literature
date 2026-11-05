@@ -1,0 +1,4 @@
+Title: Model Predictive Control: Theory, Computation, and Design (2nd ed.)
+Official source: https://sites.engineering.ucsb.edu/~jbraw/mpc/
+Original file name: Rawlings_ModelPredictiveControl_2ndEd_en.pdf
+Note: This file is not published here because no redistribution licence was found. Download it from the official source.

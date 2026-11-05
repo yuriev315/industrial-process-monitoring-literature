@@ -1,0 +1,4 @@
+Title: Feedback Control Theory
+Official source: https://www.control.utoronto.ca/people/profs/francis/dft.html
+Original file name: Doyle_FeedbackControlTheory_1990_en.pdf
+Note: This file is not published here because no redistribution licence was found. Download it from the official source.

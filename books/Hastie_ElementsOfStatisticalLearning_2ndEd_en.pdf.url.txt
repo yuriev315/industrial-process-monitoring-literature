@@ -1,0 +1,4 @@
+Title: The Elements of Statistical Learning (2nd ed.)
+Official source: https://hastie.su.domains/ElemStatLearn/
+Original file name: Hastie_ElementsOfStatisticalLearning_2ndEd_en.pdf
+Note: This file is not published here because no redistribution licence was found. Download it from the official source.

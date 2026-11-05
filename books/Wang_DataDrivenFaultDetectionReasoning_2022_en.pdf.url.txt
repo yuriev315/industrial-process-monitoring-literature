@@ -1,0 +1,4 @@
+Title: Data-Driven Fault Detection and Reasoning for Industrial Monitoring
+Official source: https://doi.org/10.1007/978-981-16-8044-1
+Original file name: Wang_DataDrivenFaultDetectionReasoning_2022_en.pdf
+Note: Open access (CC BY 4.0). The publisher site blocked scripted download, so the PDF is not included yet. Download it in a browser.

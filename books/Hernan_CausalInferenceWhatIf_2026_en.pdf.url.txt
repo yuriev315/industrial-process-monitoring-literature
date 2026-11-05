@@ -1,0 +1,4 @@
+Title: Causal Inference: What If
+Official source: https://miguelhernan.org/whatifbook
+Original file name: Hernan_CausalInferenceWhatIf_2026_en.pdf
+Note: This file is not published here because no redistribution licence was found. Download it from the official source.

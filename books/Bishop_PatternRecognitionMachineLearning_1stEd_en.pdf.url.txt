@@ -1,0 +1,4 @@
+Title: Pattern Recognition and Machine Learning
+Official source: https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/
+Original file name: Bishop_PatternRecognitionMachineLearning_1stEd_en.pdf
+Note: This file is not published here because no redistribution licence was found. Download it from the official source.

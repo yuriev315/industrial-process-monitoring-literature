@@ -1,0 +1,4 @@
+Title: Machine Learning: A First Course for Engineers and Scientists
+Official source: https://smlbook.org/
+Original file name: Lindholm_MachineLearningFirstCourse_2022_en.pdf
+Note: This file is not published here because no redistribution licence was found. Download it from the official source.
