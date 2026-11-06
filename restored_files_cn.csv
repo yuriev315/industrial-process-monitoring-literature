@@ -37,6 +37,9 @@ scripts/fields_en.py,旧仓库文件,原样找回（git 哈希一致）,见 READ
 scripts/materials_en.py,旧仓库文件,原样找回（git 哈希一致）,见 README 许可说明,本机磁盘残留的 Git 对象,13222,cede3ae7f2b166c2422d707c1304f851e9713799d9da6af323e1dc4795788e92,旧 blob a3080503da2a12e76ed2711fb471aaf92a9a699d
 scripts/papers_en.py,旧仓库文件,原样找回（git 哈希一致）,见 README 许可说明,本机磁盘残留的 Git 对象,25838,feec665a46ab26bf9d379ccda164aa8162bf96820cde7e950a0d1c9ca0ceeffe,旧 blob 4dc5dcf191fb8b1c9b0b83543592573381992047
 scripts/screen_en.py,旧仓库文件,原样找回（git 哈希一致）,见 README 许可说明,本机磁盘残留的 Git 对象,2735,ee56f75be1f947c8e972530bd84f9b151e0ae02164e6f2035b00a83da33347a1,旧 blob eb2f232de34443ca018386c6a9f4f908f1823ec1
+scripts/screening_rules_cn.md,旧仓库文件,原样找回（git 哈希一致）,见 README 许可说明,本机磁盘残留的原文件,5218,a9605f4ab55c5588a867fcd53cca8d733803b282eb8b472922bd80fb21c5d5cf,旧 blob aa56de6533ea5420d8068a7b264dac7a6fef76b6
+scripts/search_log_header_cn.md,旧仓库文件,原样找回（git 哈希一致）,见 README 许可说明,本机磁盘残留的原文件,5231,1fd6e4e24c70d4fbee7a80d915816b43a9a85d567fb1c8928e56c34f36a738b5,旧 blob 772a54f4d893630af65ee76e1644f8326a3c83a9
+scripts/seedcheck_en.py,旧仓库文件,原样找回（git 哈希一致）,见 README 许可说明,本机磁盘残留的原文件,4121,102ee29a35a85047f42583604a42deed038e3c4b7d92bb47b8e4f866966168d5,旧 blob d45d9f502f5de42d996b7d0a0711e2e7cc48e2dc
 university_materials/BYU_ProcessDynamicsControl_Online_HTML_en.zip.url.txt,大学课程包,版权受限，改为链接,未见再分发许可,https://apmonitor.com/pdc/,,,
 university_materials/MIT_1034_2015Fall_OCWCoursePackage_en.zip,大学课程包,已重新下载，在 Release 中,CC BY-NC-SA 4.0,https://ocw.mit.edu/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/10.34-fall-2015.zip,53491146,130d36f50f1a4d19b945947cad000c91f658ef447b7e2df23e691ca2b74c9974,无旧校验值可比，内容可能与旧版不同
 university_materials/MIT_10450_2006Spring_OCWCoursePackage_en.zip,大学课程包,已重新下载，在 Release 中,CC BY-NC-SA 4.0,https://ocw.mit.edu/courses/10-450-process-dynamics-operations-and-control-spring-2006/10.450-spring-2006.zip,13464746,5271a6e435ea8af08df26de9727824fa8cc695d447382367ebfcb463b73725c0,无旧校验值可比，内容可能与旧版不同

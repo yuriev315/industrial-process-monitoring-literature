@@ -25,9 +25,6 @@ release-lite-20261029,scripts/cache/metadata_en.json,1221741,ebc9d0e70ce8a3c641b
 release-lite-20261029,scripts/discover_en.py,16786,58993b24ea9a5b9102083d3a0fb25bec345c904c
 release-lite-20261029,scripts/pmcmap_en.py,1753,e98dd73acef33e74b346c4867fcf9681b8866f9e
 release-lite-20261029,scripts/reading_route_cn.md,5330,0f1bd2675c77604f72fab218cdf585b0def7a229
-release-lite-20261029,scripts/screening_rules_cn.md,5218,aa56de6533ea5420d8068a7b264dac7a6fef76b6
-release-lite-20261029,scripts/search_log_header_cn.md,5231,772a54f4d893630af65ee76e1644f8326a3c83a9
-release-lite-20261029,scripts/seedcheck_en.py,4121,d45d9f502f5de42d996b7d0a0711e2e7cc48e2dc
 release-lite-20261029,scripts/seeds/01_fundamentals_reviews_seed_cn.json,84723,39653ed0a7877a5d7d3f3cf6cfe516d88ea84e37
 release-lite-20261029,scripts/seeds/02_statistical_latent_seed_cn.json,51288,a28b1254597a772cb7c560ea5bc135336a265d58
 release-lite-20261029,scripts/seeds/03_ml_dl_monitoring_seed_cn.json,86122,9305ae6e47d326fb458e399654e8b86584c477eb
@@ -69,7 +66,6 @@ main,scripts/__pycache__/papers_en.cpython-314.pyc,46664,e3aa523dd09454ed10ad96f
 main,scripts/__pycache__/screen_en.cpython-314.pyc,5066,a3200eb9adbcc5c7adfeccc596ac8fa03112710d
 main,scripts/cache/candidates_en.json,12406057,a4997ab108f1d7bd4d5b5db3f55e2f04d56f8354
 main,scripts/cache/metadata_en.json,8090,868c6e304d9779748a822de4319d6059c3d2b2be
-main,scripts/common_en.py,7212,6ee004a2774abd2574c50b5a18e78d0962895383
 main,scripts/materials_en.py,12980,d76c326253f94407686e4537e0badd7cdac30a5c
 main,scripts/papers_en.py,25298,ff2192a3ca9b5eccb532e2adf602d296b666dc90
 main,scripts/screen_en.py,2686,fc2f09d6e3c608249f8fe47c5dbd56f9c24b55ff
