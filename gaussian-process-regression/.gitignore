@@ -1,0 +1,8 @@
+# Runtime files from the Release assets and local installs
+offline-RCGP/python/
+offline-RCGP/wheels/
+offline-RCGP/.venv/
+GPflow-docs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
