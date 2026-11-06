@@ -1,0 +1,4 @@
+Title: Graph Attention-Based Virtual Metrology for Film Deposition Processes in Semiconductor Manufacturing
+Official source: https://arxiv.org/abs/2606.00923
+Original file name: 2026_Han_GraphAttentionVirtualMetrologyFilm_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

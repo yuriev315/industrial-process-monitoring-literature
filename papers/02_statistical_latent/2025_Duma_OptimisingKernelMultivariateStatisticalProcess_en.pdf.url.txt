@@ -1,0 +1,4 @@
+Title: Optimising Kernel-based Multivariate Statistical Process Control
+Official source: https://arxiv.org/abs/2505.01556
+Original file name: 2025_Duma_OptimisingKernelMultivariateStatisticalProcess_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

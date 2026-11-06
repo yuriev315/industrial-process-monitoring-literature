@@ -1,0 +1,4 @@
+Title: Diagnostic Digital Twin for Anomaly Detection in Floating Offshore Wind Energy
+Official source: https://arxiv.org/abs/2406.02775
+Original file name: 2024_Stadtmann_DiagnosticDigitalTwinAnomalyDetection_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

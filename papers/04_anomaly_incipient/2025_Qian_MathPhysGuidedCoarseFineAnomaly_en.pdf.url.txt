@@ -1,0 +1,4 @@
+Title: MathPhys-Guided Coarse-to-Fine Anomaly Synthesis with SQE-Driven Bi-Level Optimization for Anomaly Detection
+Official source: https://arxiv.org/abs/2504.12970
+Original file name: 2025_Qian_MathPhysGuidedCoarseFineAnomaly_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

@@ -1,0 +1,4 @@
+Title: Physics-informed Diffusion Generative Model for Time-Series Data Synthesis in Dynamic Systems
+Official source: https://arxiv.org/abs/2608.10941
+Original file name: 2026_Wang_PhysicsInformedDiffusionGenerativeModel_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

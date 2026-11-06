@@ -1,4 +1,4 @@
 Title: Gaussian Processes for Machine Learning
 Official source: https://gaussianprocess.org/gpml/
 Original file name: Rasmussen_GaussianProcessesForMachineLearning_2006_en.pdf
-Note: This file is not published here because no redistribution licence was found. Download it from the official source.
+Note: Not included because no redistribution licence was found. Download it from the official source.

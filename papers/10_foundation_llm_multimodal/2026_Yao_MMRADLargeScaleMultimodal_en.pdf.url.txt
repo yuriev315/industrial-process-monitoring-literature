@@ -1,0 +1,4 @@
+Title: MMR-AD: A Large-Scale Multimodal Dataset for Benchmarking General Anomaly Detection with Multimodal Large Language Models
+Official source: https://arxiv.org/abs/2604.10971
+Original file name: 2026_Yao_MMRADLargeScaleMultimodal_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

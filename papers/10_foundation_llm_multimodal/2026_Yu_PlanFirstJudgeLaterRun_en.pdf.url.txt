@@ -1,0 +1,4 @@
+Title: Plan First, Judge Later, Run Better: A DMAIC-Inspired Agentic System for Industrial Anomaly Detection
+Official source: https://arxiv.org/abs/2606.04599
+Original file name: 2026_Yu_PlanFirstJudgeLaterRun_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

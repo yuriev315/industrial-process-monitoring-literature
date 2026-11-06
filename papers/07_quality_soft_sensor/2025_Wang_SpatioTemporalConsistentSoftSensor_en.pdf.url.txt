@@ -1,0 +1,4 @@
+Title: Spatio-Temporal Consistent Soft Sensor Modeling and Monitoring of Thermal Power Plants based on Physical Knowledge
+Official source: https://arxiv.org/abs/2506.00858
+Original file name: 2025_Wang_SpatioTemporalConsistentSoftSensor_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

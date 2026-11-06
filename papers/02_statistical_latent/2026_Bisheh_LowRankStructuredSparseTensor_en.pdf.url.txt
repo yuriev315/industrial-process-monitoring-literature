@@ -1,0 +1,4 @@
+Title: Low-Rank and Structured Sparse Tensor Decomposition for Anomaly Detection in Multivariate Functional Data
+Official source: https://arxiv.org/abs/2610.06930
+Original file name: 2026_Bisheh_LowRankStructuredSparseTensor_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

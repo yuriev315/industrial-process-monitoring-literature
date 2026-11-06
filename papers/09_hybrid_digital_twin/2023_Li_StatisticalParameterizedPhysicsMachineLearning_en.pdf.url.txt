@@ -1,0 +1,4 @@
+Title: Statistical Parameterized Physics-Based Machine Learning Digital Twin Models for Laser Powder Bed Fusion Process
+Official source: https://arxiv.org/abs/2311.07821
+Original file name: 2023_Li_StatisticalParameterizedPhysicsMachineLearning_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

@@ -1,0 +1,4 @@
+Title: Enhanced semi-supervised stamping process monitoring with physically-informed feature extraction
+Official source: https://arxiv.org/abs/2504.21389
+Original file name: 2025_Zhang_EnhancedSemiSupervisedStampingProcess_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

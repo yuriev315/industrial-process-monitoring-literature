@@ -1,4 +1,4 @@
 Title: Process Monitoring, Fault Diagnosis, and Tolerant Control for Complex Industrial Systems
 Official source: https://doi.org/10.1007/978-981-96-9033-6
 Original file name: Luo_ProcessMonitoringFaultDiagnosisTolerantControl_2025_en.pdf
-Note: Open access (CC BY-NC-ND 4.0). The publisher site blocked scripted download, so the PDF is not included yet. Download it in a browser.
+Note: Open access (CC BY-NC-ND 4.0). The publisher site blocks scripted downloads, so the PDF is not included. Download it in a browser.

@@ -1,0 +1,4 @@
+Title: Forward and Inverse Virtual Metrology for Phototransistor Gain: A Hierarchical, Uncertainty-Aware Approach for Small Production Datasets
+Official source: https://arxiv.org/abs/2608.11868
+Original file name: 2026_Amirabgir_ForwardInverseVirtualMetrologyPhototransistor_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

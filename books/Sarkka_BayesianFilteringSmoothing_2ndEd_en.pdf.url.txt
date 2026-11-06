@@ -1,4 +1,4 @@
 Title: Bayesian Filtering and Smoothing (2nd ed.)
 Official source: https://users.aalto.fi/~ssarkka/
 Original file name: Sarkka_BayesianFilteringSmoothing_2ndEd_en.pdf
-Note: Licensed for personal use only; never published in this repository. Download it from the official source.
+Note: Licensed for personal use only. Download it from the official source.

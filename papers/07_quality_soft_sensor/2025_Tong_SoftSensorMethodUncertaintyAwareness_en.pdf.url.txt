@@ -1,0 +1,4 @@
+Title: A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval
+Official source: https://arxiv.org/abs/2501.03295
+Original file name: 2025_Tong_SoftSensorMethodUncertaintyAwareness_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

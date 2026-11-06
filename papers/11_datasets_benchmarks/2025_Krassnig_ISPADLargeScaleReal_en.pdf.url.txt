@@ -1,0 +1,4 @@
+Title: ISP-AD: A Large-Scale Real-World Dataset for Advancing Industrial Anomaly Detection with Synthetic and Real Defects
+Official source: https://arxiv.org/abs/2503.04997
+Original file name: 2025_Krassnig_ISPADLargeScaleReal_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

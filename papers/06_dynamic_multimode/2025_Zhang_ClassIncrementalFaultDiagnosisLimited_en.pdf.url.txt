@@ -1,0 +1,4 @@
+Title: Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation
+Official source: https://arxiv.org/abs/2501.09525
+Original file name: 2025_Zhang_ClassIncrementalFaultDiagnosisLimited_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

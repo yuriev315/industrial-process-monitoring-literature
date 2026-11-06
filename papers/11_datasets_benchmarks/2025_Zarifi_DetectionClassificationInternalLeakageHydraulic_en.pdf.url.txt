@@ -1,0 +1,4 @@
+Title: Detection and Classification of Internal Leakage in Hydraulic Cylinders
+Official source: https://arxiv.org/abs/2508.07436
+Original file name: 2025_Zarifi_DetectionClassificationInternalLeakageHydraulic_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

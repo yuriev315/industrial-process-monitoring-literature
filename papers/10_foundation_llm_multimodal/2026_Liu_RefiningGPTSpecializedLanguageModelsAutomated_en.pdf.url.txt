@@ -1,0 +1,4 @@
+Title: RefiningGPT: Specialized language Models for Automated Refinery Unit-level Process Diagram Synthesis
+Official source: https://arxiv.org/abs/2605.19704
+Original file name: 2026_Liu_RefiningGPTSpecializedLanguageModelsAutomated_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

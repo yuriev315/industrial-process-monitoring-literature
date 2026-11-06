@@ -1,4 +1,4 @@
 Title: Mathematics for Machine Learning
 Official source: https://mml-book.github.io/
 Original file name: Deisenroth_MathematicsForMachineLearning_2020_en.pdf
-Note: Licensed for personal use only; never published in this repository. Download it from the official source.
+Note: Licensed for personal use only. Download it from the official source.

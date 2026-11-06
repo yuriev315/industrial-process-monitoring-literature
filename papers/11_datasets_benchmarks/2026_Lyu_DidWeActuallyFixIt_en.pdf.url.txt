@@ -1,0 +1,4 @@
+Title: Did We Actually Fix It? An Independent Adversarial Stress-Test of Post-Point-Adjustment Evaluation Metrics for Time-Series Anomaly Detection
+Official source: https://arxiv.org/abs/2607.11969
+Original file name: 2026_Lyu_DidWeActuallyFixIt_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

@@ -1,0 +1,4 @@
+Title: YOTOnet: Zero-Shot Cross-Domain Fault Diagnosis via Domain-Conditioned Mixture of Experts
+Official source: https://arxiv.org/abs/2605.04528
+Original file name: 2026_Wang_YOTOnetZeroShotCrossDomain_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

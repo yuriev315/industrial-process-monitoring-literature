@@ -1,0 +1,4 @@
+Title: Adaptive Unknown Fault Detection and Few-Shot Continual Learning for Condition Monitoring in Ultrasonic Metal Welding
+Official source: https://arxiv.org/abs/2604.13465
+Original file name: 2026_Eslaminia_AdaptiveUnknownFaultDetectionFew_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

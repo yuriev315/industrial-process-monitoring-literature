@@ -1,0 +1,4 @@
+Title: Digital Twin-based Smart Manufacturing: Dynamic Line Reconfiguration for Disturbance Handling
+Official source: https://arxiv.org/abs/2506.07332
+Original file name: 2025_Fu_DigitalTwinSmartManufacturingDynamic_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

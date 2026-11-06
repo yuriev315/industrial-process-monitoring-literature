@@ -1,0 +1,4 @@
+Title: Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era
+Official source: https://arxiv.org/abs/2511.00540
+Original file name: 2025_Zhu_RealIADVarietyPushingIndustrial_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

@@ -1,0 +1,4 @@
+Title: A Text-Based Knowledge-Embedded Soft Sensing Modeling Approach for General Industrial Process Tasks Based on Large Language Model
+Official source: https://arxiv.org/abs/2501.05075
+Original file name: 2025_Tong_TextKnowledgeEmbeddedSoftSensing_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

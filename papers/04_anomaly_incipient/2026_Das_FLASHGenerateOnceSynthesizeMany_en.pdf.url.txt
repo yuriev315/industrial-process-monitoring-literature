@@ -1,0 +1,4 @@
+Title: FLASH: A "Generate Once, Synthesize Many" Framework for Synthetic Anomaly Generation in Industrial Anomaly Detection
+Official source: https://arxiv.org/abs/2609.37314
+Original file name: 2026_Das_FLASHGenerateOnceSynthesizeMany_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

@@ -1,0 +1,4 @@
+Title: Novel Anomaly Detection Scenarios and Evaluation Metrics to Address the Ambiguity in the Definition of Normal Samples
+Official source: https://arxiv.org/abs/2604.07097
+Original file name: 2026_Saito_NovelAnomalyDetectionScenariosEvaluation_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

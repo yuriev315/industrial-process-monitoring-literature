@@ -1,0 +1,4 @@
+Title: Fault Diagnosis across Heterogeneous Domains via Self-Adaptive Temporal-Spatial Attention and Sample Generation
+Official source: https://arxiv.org/abs/2505.11083
+Original file name: 2025_Li_FaultDiagnosisAcrossHeterogeneousDomains_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

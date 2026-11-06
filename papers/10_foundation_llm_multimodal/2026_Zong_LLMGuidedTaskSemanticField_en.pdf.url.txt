@@ -1,0 +1,4 @@
+Title: LLM-Guided Task-Semantic Field Factorization for Industrial Process Forecasting
+Official source: https://arxiv.org/abs/2607.06623
+Original file name: 2026_Zong_LLMGuidedTaskSemanticField_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

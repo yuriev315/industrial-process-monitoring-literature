@@ -1,0 +1,4 @@
+Title: A Fuzzy Reinforcement LSTM-based Long-term Prediction Model for Fault Conditions in Nuclear Power Plants
+Official source: https://arxiv.org/abs/2411.08370
+Original file name: 2024_Li_FuzzyReinforcementLSTMLongTerm_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

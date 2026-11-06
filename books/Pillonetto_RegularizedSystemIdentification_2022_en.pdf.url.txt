@@ -1,4 +1,4 @@
-Title: Regularized System Identification
+Title: Regularized System Identification: Learning Dynamic Models from Data
 Official source: https://doi.org/10.1007/978-3-030-95860-2
 Original file name: Pillonetto_RegularizedSystemIdentification_2022_en.pdf
-Note: Open access (CC BY 4.0). The publisher site blocked scripted download, so the PDF is not included yet. Download it in a browser.
+Note: Open access (CC BY 4.0). The publisher site blocks scripted downloads, so the PDF is not included. Download it in a browser.

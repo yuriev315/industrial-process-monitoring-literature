@@ -1,0 +1,4 @@
+Title: Real time fault detection in 3D printers using Convolutional Neural Networks and acoustic signals
+Official source: https://arxiv.org/abs/2602.16118
+Original file name: 2026_Waheed_RealTimeFaultDetection3D_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

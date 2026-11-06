@@ -1,0 +1,4 @@
+Title: Data-driven parallel Koopman subsystem modeling and distributed moving horizon state estimation for large-scale nonlinear processes
+Official source: https://arxiv.org/abs/2404.06746
+Original file name: 2024_Li_DataDrivenParallelKoopmanSubsystem_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

@@ -1,0 +1,4 @@
+Title: Data Mining and Analytics in the Process Industry: The Role of Machine Learning
+Official source: https://doi.org/10.1109/ACCESS.2017.2756872
+Original file name: 2017_Ge_DataMiningAnalyticsProcessIndustry_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

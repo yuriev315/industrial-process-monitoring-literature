@@ -1,0 +1,4 @@
+Title: Toward Multimodal Industrial Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals
+Official source: https://arxiv.org/abs/2603.07130
+Original file name: 2026_Chen_TowardMultimodalIndustrialFaultAnalysis_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

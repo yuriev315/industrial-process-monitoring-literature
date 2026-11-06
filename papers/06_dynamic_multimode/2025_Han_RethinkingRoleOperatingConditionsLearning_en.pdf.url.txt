@@ -1,0 +1,4 @@
+Title: Rethinking the Role of Operating Conditions for Learning-based Multi-condition Fault Diagnosis
+Official source: https://arxiv.org/abs/2506.17740
+Original file name: 2025_Han_RethinkingRoleOperatingConditionsLearning_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

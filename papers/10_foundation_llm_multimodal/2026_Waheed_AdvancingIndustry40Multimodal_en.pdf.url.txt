@@ -1,0 +1,4 @@
+Title: Advancing Industry 4.0: Multimodal Sensor Fusion for AI-Based Fault Detection in 3D Printing
+Official source: https://arxiv.org/abs/2602.16108
+Original file name: 2026_Waheed_AdvancingIndustry40Multimodal_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

@@ -1,4 +1,4 @@
-Title: Feedback Systems (2nd ed.)
+Title: Feedback Systems: An Introduction for Scientists and Engineers (2nd ed.)
 Official source: https://fbswiki.org/
 Original file name: Astrom_FeedbackSystems_2ndEd_v3.1.5_en.pdf
-Note: This file is not published here because no redistribution licence was found. Download it from the official source.
+Note: Not included because no redistribution licence was found. Download it from the official source.

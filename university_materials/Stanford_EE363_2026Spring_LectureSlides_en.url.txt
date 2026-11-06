@@ -1,0 +1,4 @@
+Title: EE363 Linear Dynamical Systems
+Official source: https://stanford.edu/class/ee363/lectures.html
+Original file name: Stanford_EE363_2026Spring_LectureSlides_en
+Note: Not included because no redistribution licence was found. Download it from the official source.

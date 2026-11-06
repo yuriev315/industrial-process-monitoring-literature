@@ -1,0 +1,4 @@
+Title: Transferring Graph Neural Networks for Soft Sensor Modeling using Process Topologies
+Official source: https://arxiv.org/abs/2502.06826
+Original file name: 2025_Theisen_TransferringGraphNeuralNetworksSoft_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

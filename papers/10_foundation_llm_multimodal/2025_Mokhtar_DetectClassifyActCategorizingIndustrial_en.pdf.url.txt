@@ -1,0 +1,4 @@
+Title: Detect, Classify, Act: Categorizing Industrial Anomalies with Multi-Modal Large Language Models
+Official source: https://arxiv.org/abs/2505.02626
+Original file name: 2025_Mokhtar_DetectClassifyActCategorizingIndustrial_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

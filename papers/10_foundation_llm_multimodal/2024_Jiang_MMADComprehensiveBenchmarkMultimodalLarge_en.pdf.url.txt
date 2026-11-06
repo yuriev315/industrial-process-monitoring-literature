@@ -1,0 +1,4 @@
+Title: MMAD: A Comprehensive Benchmark for Multimodal Large Language Models in Industrial Anomaly Detection
+Official source: https://arxiv.org/abs/2410.09453
+Original file name: 2024_Jiang_MMADComprehensiveBenchmarkMultimodalLarge_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

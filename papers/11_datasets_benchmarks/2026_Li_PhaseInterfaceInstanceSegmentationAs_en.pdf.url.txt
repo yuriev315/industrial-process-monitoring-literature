@@ -1,0 +1,4 @@
+Title: Phase-Interface Instance Segmentation as a Visual Sensor for Laboratory Process Monitoring
+Official source: https://arxiv.org/abs/2603.10782
+Original file name: 2026_Li_PhaseInterfaceInstanceSegmentationAs_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

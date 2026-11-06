@@ -1,0 +1,4 @@
+Title: Twin Transformer using Gated Dynamic Learnable Attention mechanism for Fault Detection and Diagnosis in the Tennessee Eastman Process
+Official source: https://arxiv.org/abs/2403.10842
+Original file name: 2024_LabbafKhaniki_TwinTransformerGatedDynamicLearnable_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

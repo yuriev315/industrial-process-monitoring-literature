@@ -1,0 +1,4 @@
+Title: From Benchmark Performance to Tool Deployment: Human-in-the-Loop Anomaly Detection
+Official source: https://arxiv.org/abs/2608.07770
+Original file name: 2026_Szklarzewski_BenchmarkPerformanceToolDeploymentHuman_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

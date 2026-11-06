@@ -1,0 +1,4 @@
+Title: Component-aware Unsupervised Logical Anomaly Generation for Industrial Anomaly Detection
+Official source: https://arxiv.org/abs/2502.11712
+Original file name: 2025_Tong_ComponentAwareUnsupervisedLogicalAnomaly_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

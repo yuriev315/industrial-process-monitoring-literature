@@ -1,0 +1,4 @@
+Title: Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection
+Official source: https://arxiv.org/abs/2403.12580
+Original file name: 2024_Wang_RealIADRealWorldMulti_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

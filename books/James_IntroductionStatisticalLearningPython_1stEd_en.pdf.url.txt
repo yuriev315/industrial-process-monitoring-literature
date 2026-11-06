@@ -1,4 +1,4 @@
 Title: An Introduction to Statistical Learning with Applications in Python
 Official source: https://www.statlearning.com/
 Original file name: James_IntroductionStatisticalLearningPython_1stEd_en.pdf
-Note: This file is not published here because no redistribution licence was found. Download it from the official source.
+Note: Not included because no redistribution licence was found. Download it from the official source.

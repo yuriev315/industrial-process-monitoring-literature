@@ -1,0 +1,4 @@
+Title: Sparse Attention-driven Quality Prediction for Production Process Optimization in Digital Twins
+Official source: https://arxiv.org/abs/2405.11895
+Original file name: 2024_Yin_SparseAttentionDrivenQualityPrediction_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

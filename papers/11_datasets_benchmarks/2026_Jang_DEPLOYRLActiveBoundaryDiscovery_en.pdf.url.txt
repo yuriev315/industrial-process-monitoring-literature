@@ -1,0 +1,4 @@
+Title: DEPLOY-RL: Active Boundary Discovery and Conservative Certification for Deployable Reinforcement Learning in Safety-Critical Continuous Processes
+Official source: https://arxiv.org/abs/2611.00342
+Original file name: 2026_Jang_DEPLOYRLActiveBoundaryDiscovery_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

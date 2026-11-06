@@ -1,0 +1,4 @@
+Title: Fuzzy expert system for the process of collecting and purifying acidic water: a digital twin approach
+Official source: https://arxiv.org/abs/2601.19527
+Original file name: 2026_Maratuly_FuzzyExpertSystemProcessCollecting_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

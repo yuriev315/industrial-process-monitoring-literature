@@ -1,0 +1,4 @@
+Title: Observer Switching Strategy for Enhanced State Estimation in CSTR Networks
+Official source: https://arxiv.org/abs/2506.13878
+Original file name: 2025_BrzagaMartell_ObserverSwitchingStrategyEnhancedState_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

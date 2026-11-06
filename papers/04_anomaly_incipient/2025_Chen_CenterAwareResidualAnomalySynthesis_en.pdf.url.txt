@@ -1,0 +1,4 @@
+Title: Center-aware Residual Anomaly Synthesis for Multi-class Industrial Anomaly Detection
+Official source: https://arxiv.org/abs/2505.17551
+Original file name: 2025_Chen_CenterAwareResidualAnomalySynthesis_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

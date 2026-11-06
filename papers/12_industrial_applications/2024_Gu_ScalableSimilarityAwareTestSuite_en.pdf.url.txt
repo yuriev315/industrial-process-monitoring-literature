@@ -1,0 +1,4 @@
+Title: Scalable Similarity-Aware Test Suite Minimization with Reinforcement Learning
+Official source: https://arxiv.org/abs/2408.13517
+Original file name: 2024_Gu_ScalableSimilarityAwareTestSuite_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

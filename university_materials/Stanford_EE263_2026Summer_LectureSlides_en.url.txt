@@ -1,0 +1,4 @@
+Title: EE263 Introduction to Linear Dynamical Systems
+Official source: https://ee263.stanford.edu/lectures.html
+Original file name: Stanford_EE263_2026Summer_LectureSlides_en
+Note: Not included because no redistribution licence was found. Download it from the official source.

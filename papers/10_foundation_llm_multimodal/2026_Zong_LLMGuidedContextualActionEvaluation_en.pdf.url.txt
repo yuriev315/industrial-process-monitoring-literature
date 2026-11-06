@@ -1,0 +1,4 @@
+Title: LLM-Guided Contextual Action Evaluation for Operational Decisions in Industrial Processes
+Official source: https://arxiv.org/abs/2608.24156
+Original file name: 2026_Zong_LLMGuidedContextualActionEvaluation_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.

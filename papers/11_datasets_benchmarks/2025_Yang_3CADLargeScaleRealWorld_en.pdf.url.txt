@@ -1,0 +1,4 @@
+Title: 3CAD: A Large-Scale Real-World 3C Product Dataset for Unsupervised Anomaly
+Official source: https://arxiv.org/abs/2502.05761
+Original file name: 2025_Yang_3CADLargeScaleRealWorld_en.pdf
+Note: Not included because no redistribution licence was found. Download it from the official source.
